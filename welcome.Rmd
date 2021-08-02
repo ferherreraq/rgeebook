@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+author: "Fer Herrera"
+date: "1/8/2021"
+output: html_document
+---
+
+```{r, include = FALSE}
+source("common.R")
+```
+## Welcome
+### This is a test
