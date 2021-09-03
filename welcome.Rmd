@@ -1,9 +1,15 @@
 ---
-title: "Untitled"
-author: "Fer Herrera"
-date: "1/8/2021"
-output: html_document
+title: "Earth Engine with R"
+author: "rgee team"
+site: bookdown::bookdown_site
+output:
+  html_document:
+    df_print: paged
+csl: chicago-fullnote-bibliography.csl
+suppress-bibliography: yes
+bibliography: book.bib
 ---
+
 
 ```{r, include = FALSE}
 source("common.R")
